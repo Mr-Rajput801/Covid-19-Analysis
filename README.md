@@ -53,7 +53,7 @@ This project follows the [MIT LICENSE](https://choosealicense.com/licenses/mit/)
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
 </h3> 
 <p align="center">
-     <a href="https://www.linkedin.com/in/agarwal-himanshu" target="_blank"><img alt="LinkedIn" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-189-721962.png?f=webp&w=256"></a>
+     <a href="https://www.linkedin.com/in/-mr-rajput" target="_blank"><img alt="LinkedIn" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-189-721962.png?f=webp&w=256"></a>
    
 <p align="right">(<a href="#top">Back to top</a>)</p>
 </p> 
