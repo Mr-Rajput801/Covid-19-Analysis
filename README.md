@@ -13,10 +13,10 @@ To analyze the COVID-19 data in India and determine the cure, death and active c
 
 ## 👀 Screenshots
 
-<img src = "/assets/1.png">
-<img src = "/assets/2.png">
-<img src = "/assets/3.png">
-<img src = "/assets/4.png">
+<img src = "/Reference Image/1.png">
+<img src = "/Reference Image/2.png">
+<img src = "/Reference Image/3.png">
+<img src = "/Reference Image/4.png">
 <br>
 
 ## 👉 Application
